@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leticia\\source\\repos\\Exercicio01Classes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A206D2-B347-4869-97E1-8F364A9D76FA}|Exercicio01Classes.csproj|c:\\users\\leticia\\source\\repos\\exercicio01classes\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A206D2-B347-4869-97E1-8F364A9D76FA}|Exercicio01Classes.csproj|solutionrelative:retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A206D2-B347-4869-97E1-8F364A9D76FA}|Exercicio01Classes.csproj|c:\\users\\leticia\\source\\repos\\exercicio01classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A206D2-B347-4869-97E1-8F364A9D76FA}|Exercicio01Classes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Leticia\\source\\repos\\Exercicio01Classes\\Retangulo.cs",
+              "RelativeDocumentMoniker": "Retangulo.cs",
+              "ToolTip": "C:\\Users\\Leticia\\source\\repos\\Exercicio01Classes\\Retangulo.cs",
+              "RelativeToolTip": "Retangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T21:29:47.816Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leticia\\source\\repos\\Exercicio01Classes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Leticia\\source\\repos\\Exercicio01Classes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T21:27:13.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

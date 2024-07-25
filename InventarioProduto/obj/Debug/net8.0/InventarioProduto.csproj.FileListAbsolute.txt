@@ -1,0 +1,14 @@
+C:\Users\Leticia\source\repos\InventarioProduto\bin\Debug\net8.0\InventarioProduto.exe
+C:\Users\Leticia\source\repos\InventarioProduto\bin\Debug\net8.0\InventarioProduto.deps.json
+C:\Users\Leticia\source\repos\InventarioProduto\bin\Debug\net8.0\InventarioProduto.runtimeconfig.json
+C:\Users\Leticia\source\repos\InventarioProduto\bin\Debug\net8.0\InventarioProduto.dll
+C:\Users\Leticia\source\repos\InventarioProduto\bin\Debug\net8.0\InventarioProduto.pdb
+C:\Users\Leticia\source\repos\InventarioProduto\obj\Debug\net8.0\InventarioProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leticia\source\repos\InventarioProduto\obj\Debug\net8.0\InventarioProduto.AssemblyInfoInputs.cache
+C:\Users\Leticia\source\repos\InventarioProduto\obj\Debug\net8.0\InventarioProduto.AssemblyInfo.cs
+C:\Users\Leticia\source\repos\InventarioProduto\obj\Debug\net8.0\InventarioProduto.csproj.CoreCompileInputs.cache
+C:\Users\Leticia\source\repos\InventarioProduto\obj\Debug\net8.0\InventarioProduto.dll
+C:\Users\Leticia\source\repos\InventarioProduto\obj\Debug\net8.0\refint\InventarioProduto.dll
+C:\Users\Leticia\source\repos\InventarioProduto\obj\Debug\net8.0\InventarioProduto.pdb
+C:\Users\Leticia\source\repos\InventarioProduto\obj\Debug\net8.0\InventarioProduto.genruntimeconfig.cache
+C:\Users\Leticia\source\repos\InventarioProduto\obj\Debug\net8.0\ref\InventarioProduto.dll

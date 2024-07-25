@@ -1,0 +1,14 @@
+C:\Users\Leticia\source\repos\Exrcicio03Classes\obj\Debug\net8.0\Exrcicio03Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leticia\source\repos\Exrcicio03Classes\obj\Debug\net8.0\Exrcicio03Classes.AssemblyInfoInputs.cache
+C:\Users\Leticia\source\repos\Exrcicio03Classes\obj\Debug\net8.0\Exrcicio03Classes.AssemblyInfo.cs
+C:\Users\Leticia\source\repos\Exrcicio03Classes\obj\Debug\net8.0\Exrcicio03Classes.csproj.CoreCompileInputs.cache
+C:\Users\Leticia\source\repos\Exrcicio03Classes\bin\Debug\net8.0\Exrcicio03Classes.exe
+C:\Users\Leticia\source\repos\Exrcicio03Classes\bin\Debug\net8.0\Exrcicio03Classes.deps.json
+C:\Users\Leticia\source\repos\Exrcicio03Classes\bin\Debug\net8.0\Exrcicio03Classes.runtimeconfig.json
+C:\Users\Leticia\source\repos\Exrcicio03Classes\bin\Debug\net8.0\Exrcicio03Classes.dll
+C:\Users\Leticia\source\repos\Exrcicio03Classes\bin\Debug\net8.0\Exrcicio03Classes.pdb
+C:\Users\Leticia\source\repos\Exrcicio03Classes\obj\Debug\net8.0\Exrcicio03Classes.dll
+C:\Users\Leticia\source\repos\Exrcicio03Classes\obj\Debug\net8.0\refint\Exrcicio03Classes.dll
+C:\Users\Leticia\source\repos\Exrcicio03Classes\obj\Debug\net8.0\Exrcicio03Classes.pdb
+C:\Users\Leticia\source\repos\Exrcicio03Classes\obj\Debug\net8.0\Exrcicio03Classes.genruntimeconfig.cache
+C:\Users\Leticia\source\repos\Exrcicio03Classes\obj\Debug\net8.0\ref\Exrcicio03Classes.dll

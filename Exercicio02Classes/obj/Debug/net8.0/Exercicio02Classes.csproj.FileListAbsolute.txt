@@ -1,0 +1,14 @@
+C:\Users\Leticia\source\repos\Exercicio02Classes\obj\Debug\net8.0\Exercicio02Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leticia\source\repos\Exercicio02Classes\obj\Debug\net8.0\Exercicio02Classes.AssemblyInfoInputs.cache
+C:\Users\Leticia\source\repos\Exercicio02Classes\obj\Debug\net8.0\Exercicio02Classes.AssemblyInfo.cs
+C:\Users\Leticia\source\repos\Exercicio02Classes\obj\Debug\net8.0\Exercicio02Classes.csproj.CoreCompileInputs.cache
+C:\Users\Leticia\source\repos\Exercicio02Classes\bin\Debug\net8.0\Exercicio02Classes.exe
+C:\Users\Leticia\source\repos\Exercicio02Classes\bin\Debug\net8.0\Exercicio02Classes.deps.json
+C:\Users\Leticia\source\repos\Exercicio02Classes\bin\Debug\net8.0\Exercicio02Classes.runtimeconfig.json
+C:\Users\Leticia\source\repos\Exercicio02Classes\bin\Debug\net8.0\Exercicio02Classes.dll
+C:\Users\Leticia\source\repos\Exercicio02Classes\bin\Debug\net8.0\Exercicio02Classes.pdb
+C:\Users\Leticia\source\repos\Exercicio02Classes\obj\Debug\net8.0\Exercicio02Classes.dll
+C:\Users\Leticia\source\repos\Exercicio02Classes\obj\Debug\net8.0\refint\Exercicio02Classes.dll
+C:\Users\Leticia\source\repos\Exercicio02Classes\obj\Debug\net8.0\Exercicio02Classes.pdb
+C:\Users\Leticia\source\repos\Exercicio02Classes\obj\Debug\net8.0\Exercicio02Classes.genruntimeconfig.cache
+C:\Users\Leticia\source\repos\Exercicio02Classes\obj\Debug\net8.0\ref\Exercicio02Classes.dll
