@@ -1,0 +1,14 @@
+C:\Users\Leticia\source\repos\Emuns\bin\Debug\net8.0\Enums.exe
+C:\Users\Leticia\source\repos\Emuns\bin\Debug\net8.0\Enums.deps.json
+C:\Users\Leticia\source\repos\Emuns\bin\Debug\net8.0\Enums.runtimeconfig.json
+C:\Users\Leticia\source\repos\Emuns\bin\Debug\net8.0\Enums.dll
+C:\Users\Leticia\source\repos\Emuns\bin\Debug\net8.0\Enums.pdb
+C:\Users\Leticia\source\repos\Emuns\obj\Debug\net8.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leticia\source\repos\Emuns\obj\Debug\net8.0\Enums.AssemblyInfoInputs.cache
+C:\Users\Leticia\source\repos\Emuns\obj\Debug\net8.0\Enums.AssemblyInfo.cs
+C:\Users\Leticia\source\repos\Emuns\obj\Debug\net8.0\Enums.csproj.CoreCompileInputs.cache
+C:\Users\Leticia\source\repos\Emuns\obj\Debug\net8.0\Enums.dll
+C:\Users\Leticia\source\repos\Emuns\obj\Debug\net8.0\refint\Enums.dll
+C:\Users\Leticia\source\repos\Emuns\obj\Debug\net8.0\Enums.pdb
+C:\Users\Leticia\source\repos\Emuns\obj\Debug\net8.0\Enums.genruntimeconfig.cache
+C:\Users\Leticia\source\repos\Emuns\obj\Debug\net8.0\ref\Enums.dll

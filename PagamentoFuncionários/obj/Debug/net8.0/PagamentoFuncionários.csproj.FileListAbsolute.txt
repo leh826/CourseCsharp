@@ -1,0 +1,14 @@
+C:\Users\Leticia\source\repos\PagamentoFuncionários\obj\Debug\net8.0\PagamentoFuncionários.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leticia\source\repos\PagamentoFuncionários\obj\Debug\net8.0\PagamentoFuncionários.AssemblyInfoInputs.cache
+C:\Users\Leticia\source\repos\PagamentoFuncionários\obj\Debug\net8.0\PagamentoFuncionários.AssemblyInfo.cs
+C:\Users\Leticia\source\repos\PagamentoFuncionários\obj\Debug\net8.0\PagamentoFuncionários.csproj.CoreCompileInputs.cache
+C:\Users\Leticia\source\repos\PagamentoFuncionários\bin\Debug\net8.0\PagamentoFuncionários.exe
+C:\Users\Leticia\source\repos\PagamentoFuncionários\bin\Debug\net8.0\PagamentoFuncionários.deps.json
+C:\Users\Leticia\source\repos\PagamentoFuncionários\bin\Debug\net8.0\PagamentoFuncionários.runtimeconfig.json
+C:\Users\Leticia\source\repos\PagamentoFuncionários\bin\Debug\net8.0\PagamentoFuncionários.dll
+C:\Users\Leticia\source\repos\PagamentoFuncionários\bin\Debug\net8.0\PagamentoFuncionários.pdb
+C:\Users\Leticia\source\repos\PagamentoFuncionários\obj\Debug\net8.0\PagamentoFuncionários.dll
+C:\Users\Leticia\source\repos\PagamentoFuncionários\obj\Debug\net8.0\refint\PagamentoFuncionários.dll
+C:\Users\Leticia\source\repos\PagamentoFuncionários\obj\Debug\net8.0\PagamentoFuncionários.pdb
+C:\Users\Leticia\source\repos\PagamentoFuncionários\obj\Debug\net8.0\PagamentoFuncionários.genruntimeconfig.cache
+C:\Users\Leticia\source\repos\PagamentoFuncionários\obj\Debug\net8.0\ref\PagamentoFuncionários.dll

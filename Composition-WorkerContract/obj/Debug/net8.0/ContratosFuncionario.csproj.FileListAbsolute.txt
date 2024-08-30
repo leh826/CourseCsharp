@@ -1,0 +1,14 @@
+C:\Users\Leticia\source\repos\ContratosFuncionario\bin\Debug\net8.0\ContratosFuncionario.exe
+C:\Users\Leticia\source\repos\ContratosFuncionario\bin\Debug\net8.0\ContratosFuncionario.deps.json
+C:\Users\Leticia\source\repos\ContratosFuncionario\bin\Debug\net8.0\ContratosFuncionario.runtimeconfig.json
+C:\Users\Leticia\source\repos\ContratosFuncionario\bin\Debug\net8.0\ContratosFuncionario.dll
+C:\Users\Leticia\source\repos\ContratosFuncionario\bin\Debug\net8.0\ContratosFuncionario.pdb
+C:\Users\Leticia\source\repos\ContratosFuncionario\obj\Debug\net8.0\ContratosFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leticia\source\repos\ContratosFuncionario\obj\Debug\net8.0\ContratosFuncionario.AssemblyInfoInputs.cache
+C:\Users\Leticia\source\repos\ContratosFuncionario\obj\Debug\net8.0\ContratosFuncionario.AssemblyInfo.cs
+C:\Users\Leticia\source\repos\ContratosFuncionario\obj\Debug\net8.0\ContratosFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\Leticia\source\repos\ContratosFuncionario\obj\Debug\net8.0\ContratosFuncionario.dll
+C:\Users\Leticia\source\repos\ContratosFuncionario\obj\Debug\net8.0\refint\ContratosFuncionario.dll
+C:\Users\Leticia\source\repos\ContratosFuncionario\obj\Debug\net8.0\ContratosFuncionario.pdb
+C:\Users\Leticia\source\repos\ContratosFuncionario\obj\Debug\net8.0\ContratosFuncionario.genruntimeconfig.cache
+C:\Users\Leticia\source\repos\ContratosFuncionario\obj\Debug\net8.0\ref\ContratosFuncionario.dll

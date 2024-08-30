@@ -1,0 +1,14 @@
+C:\Users\Leticia\source\repos\Pedido\bin\Debug\net8.0\Pedido.exe
+C:\Users\Leticia\source\repos\Pedido\bin\Debug\net8.0\Pedido.deps.json
+C:\Users\Leticia\source\repos\Pedido\bin\Debug\net8.0\Pedido.runtimeconfig.json
+C:\Users\Leticia\source\repos\Pedido\bin\Debug\net8.0\Pedido.dll
+C:\Users\Leticia\source\repos\Pedido\bin\Debug\net8.0\Pedido.pdb
+C:\Users\Leticia\source\repos\Pedido\obj\Debug\net8.0\Pedido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leticia\source\repos\Pedido\obj\Debug\net8.0\Pedido.AssemblyInfoInputs.cache
+C:\Users\Leticia\source\repos\Pedido\obj\Debug\net8.0\Pedido.AssemblyInfo.cs
+C:\Users\Leticia\source\repos\Pedido\obj\Debug\net8.0\Pedido.csproj.CoreCompileInputs.cache
+C:\Users\Leticia\source\repos\Pedido\obj\Debug\net8.0\Pedido.dll
+C:\Users\Leticia\source\repos\Pedido\obj\Debug\net8.0\refint\Pedido.dll
+C:\Users\Leticia\source\repos\Pedido\obj\Debug\net8.0\Pedido.pdb
+C:\Users\Leticia\source\repos\Pedido\obj\Debug\net8.0\Pedido.genruntimeconfig.cache
+C:\Users\Leticia\source\repos\Pedido\obj\Debug\net8.0\ref\Pedido.dll

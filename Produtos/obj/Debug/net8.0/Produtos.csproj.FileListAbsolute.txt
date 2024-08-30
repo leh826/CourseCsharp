@@ -1,0 +1,14 @@
+C:\Users\Leticia\source\repos\Produtos\obj\Debug\net8.0\Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leticia\source\repos\Produtos\obj\Debug\net8.0\Produtos.AssemblyInfoInputs.cache
+C:\Users\Leticia\source\repos\Produtos\obj\Debug\net8.0\Produtos.AssemblyInfo.cs
+C:\Users\Leticia\source\repos\Produtos\obj\Debug\net8.0\Produtos.csproj.CoreCompileInputs.cache
+C:\Users\Leticia\source\repos\Produtos\bin\Debug\net8.0\Produtos.exe
+C:\Users\Leticia\source\repos\Produtos\bin\Debug\net8.0\Produtos.deps.json
+C:\Users\Leticia\source\repos\Produtos\bin\Debug\net8.0\Produtos.runtimeconfig.json
+C:\Users\Leticia\source\repos\Produtos\bin\Debug\net8.0\Produtos.dll
+C:\Users\Leticia\source\repos\Produtos\bin\Debug\net8.0\Produtos.pdb
+C:\Users\Leticia\source\repos\Produtos\obj\Debug\net8.0\Produtos.dll
+C:\Users\Leticia\source\repos\Produtos\obj\Debug\net8.0\refint\Produtos.dll
+C:\Users\Leticia\source\repos\Produtos\obj\Debug\net8.0\Produtos.pdb
+C:\Users\Leticia\source\repos\Produtos\obj\Debug\net8.0\Produtos.genruntimeconfig.cache
+C:\Users\Leticia\source\repos\Produtos\obj\Debug\net8.0\ref\Produtos.dll
